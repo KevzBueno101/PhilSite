@@ -68,12 +68,15 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Angela Nicole Tejerero**
-_Web-Developer/Project Manager_
+*Web-Developer/Project Manager*
 
 **Kevin Bueno**
-_Co-Developer/Designer_
+*Co-Developer/Designer*
 - GitHub: [@KevzBueno101](https://github.com/KevzBueno101)
 
 ---
 
 **Mabuhay ang Pilipinas! 🇵🇭**
+
+
+
