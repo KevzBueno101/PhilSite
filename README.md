@@ -69,6 +69,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Angela Nicole Tejerero**
 >Leader/Web-Developer
+
 **Kevin Bueno**
 >Co-Developer/Designer
 - GitHub: [@KevzBueno101](https://github.com/KevzBueno101)
