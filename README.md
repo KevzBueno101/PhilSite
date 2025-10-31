@@ -3,6 +3,7 @@
 A comprehensive website dedicated to showcasing the beauty, culture, and rich history of the Philippines.
 
 ## 📖 About
+A group project during back during our senior high school.
 
 PhilSite is an informational website that serves as a digital gateway to discover everything about the Philippines. From its fascinating history to its breathtaking tourist destinations, this website aims to provide visitors with a complete overview of Filipino culture, heritage, and identity.
 
@@ -68,9 +69,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Angela Nicole Tejerero**
+
 *Web-Developer/Project Manager*
 
 **Kevin Bueno**
+
 *Co-Developer/Designer*
 - GitHub: [@KevzBueno101](https://github.com/KevzBueno101)
 
