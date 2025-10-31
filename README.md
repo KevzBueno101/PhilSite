@@ -40,7 +40,7 @@ cd PhilSite
 - HTML5
 - CSS3
 - JavaScript
-- [Add any frameworks or libraries you're using]
+
 
 ## 🤝 Contributing
 
