@@ -42,20 +42,6 @@ cd PhilSite
 - JavaScript
 - [Add any frameworks or libraries you're using]
 
-## 📂 Project Structure
-
-```
-PhilSite/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── images/
-│   └── [image files]
-└── README.md
-```
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
